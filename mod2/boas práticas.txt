@@ -1,0 +1,21 @@
+Boas práticas em shell script
+CABEÇALHO
+    -NOME DO SCRIPT OU PROGRAMA
+    -MANTENEDOR - EMAIL, CONTATO OU REFÊNCIA
+    -EXEMPLO DE UTILIZAÇÃO
+    -VERSIONAMENTO DE CODIGO - MANUTENÇÃO
+        1.0 começo do codigo 
+            1.1 pequena manutenção no codigo
+            1.2...
+            1.3...
+        2.0 restruturação ou grande alteração do codigo
+            2.1 pequena manutenção no codigo
+            2.2...
+            2.3...
+    -TESTADO - ONDE FOI TESTADO, ZSH ? BASH ? SH ? CSH ?
+
+Estrutura  - dividida em variaveis, teste, execução.
+
+Comentários - Comentários diretos ao ponto no codigo
+
+Estrutura do codigo - quebrar de comando longos, identar codigo corretamente
